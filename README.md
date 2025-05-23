@@ -9,7 +9,8 @@ Dengan Shell, kamu bisa mengendalikan komputer lewat baris perintah: mulai dari 
 
 Shell adalah bagian standar dari sistem Unix dan Linux, dan bagi pengguna Windows, ada solusi keren bernama **WSL** (Windows Subsystem for Linux) yang memungkinkan kamu memakai Shell di Windows dengan mudah.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Halooo 
 Selamat datang di repositori belajar **Perintah Dasar Linux**! 🚀  
 Repositori ini cocok banget buat kamu yang baru mulai mengenal Linux, atau yang ingin punya referensi cepat dan mudah dipahami soal perintah-perintah penting di Linux.
